@@ -1,0 +1,28 @@
+_repo: Seeing-Europe-with-Famous-Authors-Volume-4--13-France-and-the-Netherlands-Part-2_11898
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Halsey, Francis W. (Francis Whiting)
+    birthdate: 1851
+    deathdate: 1919
+    gutenberg_agent_id: '3081'
+    url: http://www.gutenberg.org/2009/agents/3081
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Whiting_Halsey
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcc 'DJ'
+- !lcsh 'Netherlands -- Description and travel'
+- !lcsh 'France -- Description and travel'
+- GITenberg
+title: "Seeing Europe with Famous Authors, Volume 4\r\nFrance and the Netherlands,\
+  \ Part 2"
+url: http://www.gutenberg.org/ebooks/11898
